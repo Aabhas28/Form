@@ -58,4 +58,3 @@ Strong: Contains uppercase, lowercase, numbers, and special characters
 - Local storage is used only for demo purposes.
 
 - Minimal form validation to keep the project simple.
-# Form
