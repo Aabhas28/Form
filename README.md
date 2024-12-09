@@ -9,15 +9,24 @@
     git clone https://github.com/Aabhas28/Form.git
     ```
 
-2. Install dependencies:
+ 2. Navigate :
     ```bash
     cd form
+    ```
+ 3. Downgrade ts version if(Since react-scripts@5.0.1 supports TypeScript up to version 4, downgrade TypeScript:) :
+    ```bash
+    npm install typescript@4.9.5
+
+    ```
+
+4. Install dependencies:
+    ```bash
     npm install
     ```
 
-3. Start the React application:
+5. Start the React application:
     ```bash
-    npm run dev
+    npm start
     ```
 
 
