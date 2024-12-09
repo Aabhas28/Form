@@ -6,8 +6,7 @@
 
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/your-repo/auth-forms.git
-
+    git clone https://github.com/Aabhas28/Form.git
     ```
 
 2. Install dependencies:
