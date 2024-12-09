@@ -8,7 +8,7 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-4">
-      <h1 className="text-4xl font-bold mb-8">React Formik App</h1>
+      <h1 className="text-4xl font-bold mb-8">Form</h1>
       <div className="mb-4 flex gap-4">
         <button
           onClick={() => setShowSignUp(true)}

@@ -11,7 +11,7 @@
 
 2. Install dependencies:
     ```bash
-    cd auth-forms
+    cd form
     npm install
     ```
 
